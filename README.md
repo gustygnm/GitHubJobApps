@@ -1,5 +1,8 @@
 # GitHubJobApps
-# version apps 0.1
+
+## Contributions: 
+1. 
+2.
 
 Aplikasi android untuk menampilkan daftar job pada https://jobs.github.com/ yang mau belajar menggunakan API silahkan coba pelajari source code pada aplikasi ini.
 
