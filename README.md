@@ -2,7 +2,7 @@
 
 ## Contributions: 
 1. Hutang Apps
-2.
+2. Gusti
 
 Aplikasi android untuk menampilkan daftar job pada https://jobs.github.com/ yang mau belajar menggunakan API silahkan coba pelajari source code pada aplikasi ini.
 
